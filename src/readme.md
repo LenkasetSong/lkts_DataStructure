@@ -1,6 +1,6 @@
 # vscode + mingw + C/C++
 
-<https://github.com/lenkasetGitHub/song_dataStructure.git/>
+<https://github.com/lenkasetGitHub/lkts_DataStructure.git/>
 
 1. 安装MinGW-x64,设置环境变量Path+\mingw\bin  
 2. cmake-x64,设置环境变量Path+\cmake\bin,vscode扩展cmake添加camke.exe路径
