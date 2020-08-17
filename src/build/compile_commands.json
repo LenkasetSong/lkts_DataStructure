@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Administrator/Desktop/comaputher/project/dataStructure/build",
+  "command": "E:\\MinGW\\bin\\gcc.exe   -g   -o CMakeFiles\\TEST.dir\\main.c.obj   -c C:\\Users\\Administrator\\Desktop\\comaputher\\project\\dataStructure\\main.c",
+  "file": "C:/Users/Administrator/Desktop/comaputher/project/dataStructure/main.c"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/comaputher/project/dataStructure/build/datalib/SeqList",
+  "command": "E:\\MinGW\\bin\\gcc.exe  @CMakeFiles/SeqList.dir/includes_C.rsp -g   -o CMakeFiles\\SeqList.dir\\SeqList.c.obj   -c C:\\Users\\Administrator\\Desktop\\comaputher\\project\\dataStructure\\datalib\\SeqList\\SeqList.c",
+  "file": "C:/Users/Administrator/Desktop/comaputher/project/dataStructure/datalib/SeqList/SeqList.c"
+}
+]

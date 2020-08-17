@@ -1,0 +1,8 @@
+C:/Users/Administrator/Desktop/comaputher/project/dataStructure/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/comaputher/project/dataStructure/build/CMakeFiles/TEST.dir
+C:/Users/Administrator/Desktop/comaputher/project/dataStructure/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/comaputher/project/dataStructure/build/datalib/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/comaputher/project/dataStructure/build/datalib/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/comaputher/project/dataStructure/build/datalib/SeqList/CMakeFiles/SeqList.dir
+C:/Users/Administrator/Desktop/comaputher/project/dataStructure/build/datalib/SeqList/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/comaputher/project/dataStructure/build/datalib/SeqList/CMakeFiles/rebuild_cache.dir

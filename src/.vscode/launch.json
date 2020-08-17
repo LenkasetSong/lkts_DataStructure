@@ -1,0 +1,70 @@
+{
+  // 使用 IntelliSense 了解相关属性。
+  // 悬停以查看现有属性的描述。
+  // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "(gdb) Launch",
+      "type": "cppdbg",
+      "request": "launch",
+      // "program": "${fileDirname}/${fileBasenameNoExtension}.out",
+      "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true,
+
+      "MIMode": "gdb",
+      //E:\MinGW\bin
+      "miDebuggerPath": "E:\\MinGW\\bin\\gdb.exe",
+
+      "linux": {
+        // Linux 系统下的配置
+        "MIMode": "gdb"
+      },
+      "osx": {
+        // OS X系统下的配置
+        "MIMode": "lldb"
+      },
+      "windows": {
+        // Windows 系统下的配置
+        "MIMode": "gdb",
+        "miDebuggerPath": "E:\\MinGW\\bin\\gdb.exe"
+      },
+      "preLaunchTask": "build"
+    },
+
+    {
+      "name": "(gdb) debug multi",
+      "type": "cppdbg",
+      "request": "launch",
+      // "program": "${fileDirname}/${fileBasenameNoExtension}.out",
+      "program": "${fileDirname}/build/TEST.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true,
+
+      "MIMode": "gdb",
+      "miDebuggerPath": "E:\\MinGW\\bin\\gdb.exe",
+
+      "linux": {
+        // Linux 系统下的配置
+        "MIMode": "gdb"
+      },
+      "osx": {
+        // OS X系统下的配置
+        "MIMode": "lldb"
+      },
+      "windows": {
+        // Windows 系统下的配置
+        "MIMode": "gdb",
+        "miDebuggerPath": "E:\\MinGW\\bin\\gdb.exe"
+      }
+      // "preLaunchTask": "debug"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+E:\MinGW\bin\ar.exe qc libSeqList.a  CMakeFiles/SeqList.dir/SeqList.c.obj
+E:\MinGW\bin\ranlib.exe libSeqList.a
